@@ -1,4 +1,4 @@
-perl
+snippets
 ====
 
-perl examples
+java, jsp, js, css, python, perl examples
